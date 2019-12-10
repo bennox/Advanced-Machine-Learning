@@ -15,6 +15,8 @@ The goal of this frst exercise is (i), to address clustering problems when data 
 (ii), to measure the impact of noise on spectral clustering and (iii), measure its stability especially when
 the graph construction parameter varies.
 
+These are the results of the LapSVM on a toy dataset and on the [cancer dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html)
+
 ![](figs/toy_dataset.png)
 
 ![](figs/cancer_dataset.png)
