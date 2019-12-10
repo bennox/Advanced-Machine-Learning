@@ -11,8 +11,10 @@ In this course, we studied most of traditional Machine learning problems and sol
 
 ## Project : Spectral Clustering and Semi-Supervised Learning
 
-The goal of this rst exercise is (i), to address clustering problems when data belong to some manifold,
+The goal of this frst exercise is (i), to address clustering problems when data belong to some manifold,
 (ii), to measure the impact of noise on spectral clustering and (iii), measure its stability especially when
 the graph construction parameter varies.
 
-![]()
+![](figs/toy_dataset.png)
+
+![](figs/cancer_dataset.png)
